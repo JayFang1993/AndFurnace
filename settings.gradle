@@ -1,0 +1,2 @@
+include ':app', ':andfurnace'
+rootProject.name='AndFurnace'
